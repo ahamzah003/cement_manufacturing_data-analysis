@@ -1,5 +1,5 @@
 # Cement Manufacturing Dataset Exploration
-## by HAMZAT ABDULRAHMAN
+## by ABDULRAHMAN HAMZAT
 
 
 ## Dataset
